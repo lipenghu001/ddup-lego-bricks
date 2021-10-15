@@ -1,8 +1,8 @@
 {
-  "name": "lego-bricks",
+  "name": "ddup-lego-bricks",
   "version": "1.0.10",
   "private": false,
-  "author": "Viking Zhang",
+  "author": "lipeng",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "npm run clean && npm run build:esm && npm run build:umd",
@@ -19,8 +19,8 @@
       "pre-commit": "npm run lint && npm run test"
     }
   },  
-  "main": "dist/lego-bricks.umd.js",
-  "module": "dist/lego-bricks.esm.js",
+  "main": "dist/ddup-lego-bricks.umd.js",
+  "module": "dist/ddup-lego-bricks.esm.js",
   "files": [
     "dist"
   ],
