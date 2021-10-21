@@ -2,7 +2,7 @@
   "name": "ddup-lego-bricks",
   "version": "1.0.4",
   "private": false,
-  "author": "lipeng",
+  "author": "lipenghu001",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "npm run clean && npm run build:esm && npm run build:umd",
